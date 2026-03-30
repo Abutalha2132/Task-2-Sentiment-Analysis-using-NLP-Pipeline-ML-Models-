@@ -1,0 +1,15 @@
+# Core Libraries
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualization
+matplotlib>=3.6.0
+
+# NLP
+nltk>=3.8.1
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Optional (if you used WordCloud earlier, otherwise can remove)
+wordcloud>=1.9.0
